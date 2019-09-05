@@ -1,0 +1,31 @@
+D:\Repos\Practical 06B\Practical 06B\obj\Debug\Practical 06B.vbprojAssemblyReference.cache
+D:\Repos\Practical 06B\Practical 06B\obj\Debug\Practical 06B.exe.config
+D:\Repos\Practical 06B\Practical 06B\obj\Debug\Practical_06B.BankTracker.resources
+D:\Repos\Practical 06B\Practical 06B\obj\Debug\Practical_06B.Resources.resources
+D:\Repos\Practical 06B\Practical 06B\obj\Debug\Practical 06B.vbproj.GenerateResource.cache
+D:\Repos\Practical 06B\Practical 06B\obj\Debug\Practical 06B.vbproj.CoreCompileInputs.cache
+D:\Repos\Practical 06B\Practical 06B\bin\Debug\Practical 06B.exe.config
+D:\Repos\Practical 06B\Practical 06B\bin\Debug\Practical 06B.exe
+D:\Repos\Practical 06B\Practical 06B\bin\Debug\Practical 06B.pdb
+D:\Repos\Practical 06B\Practical 06B\bin\Debug\Practical 06B.xml
+D:\Repos\Practical 06B\Practical 06B\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+D:\Repos\Practical 06B\Practical 06B\bin\Debug\UJGrid.dll
+D:\Repos\Practical 06B\Practical 06B\bin\Debug\Microsoft.VisualStudio.Shell.Framework.dll
+D:\Repos\Practical 06B\Practical 06B\bin\Debug\Microsoft.VisualStudio.Telemetry.dll
+D:\Repos\Practical 06B\Practical 06B\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\Repos\Practical 06B\Practical 06B\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Repos\Practical 06B\Practical 06B\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Repos\Practical 06B\Practical 06B\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\Repos\Practical 06B\Practical 06B\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\Repos\Practical 06B\Practical 06B\bin\Debug\Newtonsoft.Json.dll
+D:\Repos\Practical 06B\Practical 06B\bin\Debug\Microsoft.VisualStudio.RemoteControl.dll
+D:\Repos\Practical 06B\Practical 06B\bin\Debug\Microsoft.VisualStudio.Utilities.Internal.dll
+D:\Repos\Practical 06B\Practical 06B\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+D:\Repos\Practical 06B\Practical 06B\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Repos\Practical 06B\Practical 06B\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Repos\Practical 06B\Practical 06B\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Repos\Practical 06B\Practical 06B\bin\Debug\Microsoft.MSXML.dll
+D:\Repos\Practical 06B\Practical 06B\obj\Debug\Practical 06B.vbproj.CopyComplete
+D:\Repos\Practical 06B\Practical 06B\obj\Debug\Practical 06B.exe
+D:\Repos\Practical 06B\Practical 06B\obj\Debug\Practical 06B.xml
+D:\Repos\Practical 06B\Practical 06B\obj\Debug\Practical 06B.pdb
